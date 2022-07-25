@@ -1,0 +1,24 @@
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #169ac9;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#button_send {
+width: 300px;
+}
+
+body{
+    background: #16b8c9;
+}
+
+#textinput_num1{
+    width: 1138px;
+}
+
+#textinput_num2{
+    width: 1138px;
+}
